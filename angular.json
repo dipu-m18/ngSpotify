@@ -88,6 +88,8 @@
               "src/assets"
             ],
             "styles": [
+              "src/bootstrap.css",
+              
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +121,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngSpotify"
+    }
+  },
+  "defaultProject": "ngSpotify",
+  "cli": {
+    "analytics": "5cfe523e-a4b6-4cff-ab97-28099a853702"
+  }
 }
